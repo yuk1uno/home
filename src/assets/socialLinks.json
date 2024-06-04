@@ -1,9 +1,9 @@
 [
   {
-    "name": "Github",
-    "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/yuk1uno"
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": " TG 见~",
+    "url": "https://t.me/yuki_uno"
   },
   {
     "name": "Email",
@@ -12,9 +12,9 @@
     "url": "mailto:yuki@yuki.uno"
   },
   {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/yuki_uno"
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/yuk1uno"
   }
 ]
