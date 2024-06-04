@@ -7,22 +7,12 @@
   {
     "icon": "Cloud",
     "name": "Alist",
-    "link": "https://alist.yuki.uno"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "IP检测",
-    "link": "https://ip.yuki.uno"
+    "link": "http://121.199.79.7:5244/"
   },
   {
     "icon": "LaptopCode",
     "name": "探针",
     "link": "https://tz.yuki.uno"
-  },
-  {
-    "icon": "Book",
-    "name": "站点监测",
-    "link": "https://zd.yuki.uno"
   },
   {
     "icon": "Fire",
