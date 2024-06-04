@@ -70,6 +70,7 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  BrandTelegram,
 };
 
 // 链接跳转
